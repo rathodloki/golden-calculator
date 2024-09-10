@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/golden-calculator/static/css/main.4e902732.css",
+    "main.js": "/golden-calculator/static/js/main.86126a76.js",
+    "static/js/453.92889dae.chunk.js": "/golden-calculator/static/js/453.92889dae.chunk.js",
+    "index.html": "/golden-calculator/index.html",
+    "main.4e902732.css.map": "/golden-calculator/static/css/main.4e902732.css.map",
+    "main.86126a76.js.map": "/golden-calculator/static/js/main.86126a76.js.map",
+    "453.92889dae.chunk.js.map": "/golden-calculator/static/js/453.92889dae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e902732.css",
+    "static/js/main.86126a76.js"
+  ]
+}
